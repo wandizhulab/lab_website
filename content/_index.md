@@ -2,78 +2,27 @@
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
+# Page type - we want a landing page (such as a homepage)
 type: landing
 
+# Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: hero
-    content:
-      title: |
-        Zhu Lab @ OSU
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  # - block: collection
-  #   content:
-  #     title: Latest News
-  #     subtitle:
-  #     text:
-  #     count: 5
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       exclude_featured: false
-  #       publication_type: ''
-  #       tag: ''
-  #     offset: 0
-  #     order: desc
-  #     page_type: post
-  #   design:
-  #     view: card
-  #     columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
+  # A section to display blog posts
   - block: collection
+    id: section-1
     content:
-      title: Latest Preprints
-      text: ""
-      count: 5
+      title: Research Overview
+      #subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      # Display content from the `content/post/` folder
       filters:
         folders:
-          - publication
-        publication_type: 'article'
+          - research
     design:
-      view: citation
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      # Choose your content listing view - here we use the `showcase` view
+      view: showcase
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
 ---

@@ -1,6 +1,7 @@
 ---
-# Page title
-title: Research
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
@@ -25,16 +26,3 @@ sections:
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
 ---
-
-
-<!-- ---
-title: Research
-
-# Listing view
-view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
---- -->
