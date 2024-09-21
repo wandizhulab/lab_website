@@ -2,8 +2,8 @@
 title: Perturbational phenotyping of human blood cells reveals genetically determined
   latent traits associated with subsets of common diseases
 authors:
-- Max Homilius
-- Wandi Zhu
+- Max Homilius#
+- Wandi Zhu#
 - Samuel S Eddy
 - Patrick C Thompson
 - Huahua Zheng
@@ -31,13 +31,13 @@ authors:
 - Shinichi Goto
 - James G Truslow
 - Sara Vandenwijngaert
-- Calum A Macrae
-- Rahul C Deo
+- Calum A Macrae#
+- Rahul C Deo#
 date: '2023-01-01'
 publishDate: '2024-09-19T01:09:21.595224Z'
 publication_types:
 - article-journal
-publication: '*Nature Genetics *'
+publication: '*Nature Genetics* #co-corresponding authors'
 doi: 10.1038/s41588-023-01600-x
 abstract: Although genome-wide association studies (GWAS) have successfully linked
   genetic risk loci to various disorders, identifying underlying cellular biological

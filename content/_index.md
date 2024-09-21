@@ -11,9 +11,10 @@ sections:
   - block: collection
     id: section-1
     content:
-      title: Research Overview
+      title: Research
       #subtitle: A subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Each second, millions of electrical events occur in our body. There rapid electrical signals can be triggered by mechanical forces, propagation from neighboring cells, or biochemical cues. They encode essential cell functions while interacting with other processes, such as cell metabolism and gene transcription. The ability to decode these electrical signals presents immense opportunities for therapeutic targeting. <br><br> Our lab's long-term goal is to understand how electrical and mechanoelectrical signaling regulate cell function in both excitable (cardiac) and non-excitable (blood and endothelial) tissues in health and diseases. We will explore how modulating these signals can alter cell behaviors and potentially lead to treatments for a range of common diseases.<br><br>![image](./research/featured.jpg)<br>To enhance the translational value of our research, we integrate human samples, genetics, and clinical data into our discovery framework. We then investigate detailed mechanisms using a combination of zebrafish models, cell cultures, and tissue-on-a-chip systems, utilizing genomics, imaging, and electrophysiology techniques.<br><br><br>**Ongoing Projects**<br><br>
+
       # Display content from the `content/post/` folder
       filters:
         folders:
