@@ -2,15 +2,15 @@
 title: Conservation and divergence in NaChBac and NaV1.7 pharmacology reveals novel
   drug interaction mechanisms
 authors:
-- Wandi Zhu
+- Wandi Zhu#
 - Tianbo Li
 - Jonathan R. Silva
-- Jun Chen
+- Jun Chen#
 date: '2020-01-01'
 publishDate: '2024-09-19T01:09:21.565862Z'
 publication_types:
 - article-journal
-publication: '*Scientific Reports*'
+publication: '*Scientific Reports* #Corresponding authors'
 doi: 10.1038/s41598-020-67761-5
 abstract: Voltage-gated Na+ (NaV) channels regulate homeostasis in bacteria and control
   membrane electrical excitability in mammals. Compared to their mammalian counterparts,
