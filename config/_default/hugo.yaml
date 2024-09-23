@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Zhu Lab @ OSU # Website name
-baseURL: 'https://zhulab.science/' # Website URL
+baseURL: 'http://zhulab.science/' # Website URL
 
 ############################
 ## LANGUAGE
