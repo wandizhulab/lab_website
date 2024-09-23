@@ -1,7 +1,7 @@
 ---
 title: PIEZO1 mediates a mechanothrombotic pathway in diabetes
 authors:
-- Wandi Zhu
+- Wandi Zhu#
 - Shihui Guo
 - Max Homilius
 - Cissy Nsubuga
@@ -13,12 +13,12 @@ authors:
 - Manu Beerens
 - Robert Flaumenhaft
 - Rahul C Deo
-- Calum A MacRae
+- Calum A MacRae#
 date: '2022-01-01'
 publishDate: '2024-09-23T02:11:47.128737Z'
 publication_types:
 - article-journal
-publication: '*Science Translational Medicine*'
+publication: '*Science Translational Medicine* #Corresponding authors'
 doi: 10.1126/scitranslmed.abk1707
 abstract: Hematopoietic cell selection based on PIEZO1 expression drives thrombosis
   risk in type 2 diabetes. Patients with diabetes are at increased risk of thrombosis.
